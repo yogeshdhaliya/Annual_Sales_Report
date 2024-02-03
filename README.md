@@ -12,3 +12,8 @@
 ### • Relation between age and gender based on number of orders?
 ### • Which channel is contributing to maximum sales?
 ### • Highest selling category?, etc.
+
+
+# STEPS
+
+## 1. DATA CLEANING
